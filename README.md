@@ -1,2 +1,2 @@
 # DataStructures
-Data Structures programs form basic
+Data Structures programs form basics
