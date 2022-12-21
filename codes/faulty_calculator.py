@@ -19,5 +19,5 @@ elif operand=="/":
 elif operand=="*":
     print(num1*num2)
 else:
-    print("enter valid operand")
+    print("enter valid operand!!")
     
